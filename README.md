@@ -1,6 +1,6 @@
 ###README
 
-Main steps
+Main steps of run_analysis.R 
 
 1) Downloads, unzips dataset if zip or folder does not exist working directory
 
