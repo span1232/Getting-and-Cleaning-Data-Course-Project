@@ -1,6 +1,7 @@
 ###README
 
 Main steps
+
 1) Downloads, unzips dataset if zip or folder does not exist working directory
 
 2) Automatically retreives all files into data.table
